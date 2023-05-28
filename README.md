@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+YOLOv8 INT8 TFLite Inference Example (#7317)
